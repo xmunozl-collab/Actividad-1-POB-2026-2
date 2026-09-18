@@ -16,54 +16,50 @@ Este repositorio contiene la solución en Python de los cinco ejercicios de lóg
 programación (tomados del libro *Lógica de Programación* de Efraín Oviedo Regino)
 solicitados en la Actividad 1, implementados usando clases y métodos.
 
-## [Ejercicio 4 – Edades](edades.py)
+## Ejercicio 4 – Edades
 
-Código: [`edades.py`](edades.py)
+- Código: [edades.py](edades.py)
+- Diagrama de clase: [diagrama_ej4_Edades.png](diagrama_ej4_Edades.png)
 
-[![Diagrama de clase - Edades](diagrama_ej4_Edades.png)](diagrama_ej4_Edades.png)
+## Ejercicio 5 – Prueba de Escritorio
 
-## [Ejercicio 5 – Prueba de Escritorio](prueba_escritorio.py)
+- Código: [prueba_escritorio.py](prueba_escritorio.py)
+- Diagrama de clase: [diagrama_ej5_PruebaEscritorio.png](diagrama_ej5_PruebaEscritorio.png)
 
-Código: [`prueba_escritorio.py`](prueba_escritorio.py)
+## Ejercicio 12 – Trabajador
 
-[![Diagrama de clase - Prueba de Escritorio](diagrama_ej5_PruebaEscritorio.png)](diagrama_ej5_PruebaEscritorio.png)
+- Código: [trabajador.py](trabajador.py)
+- Diagrama de clase: [diagrama_ej12_Trabajador.png](diagrama_ej12_Trabajador.png)
 
-## [Ejercicio 12 – Trabajador](trabajador.py)
+## Ejercicio 14 – Potenciación
 
-Código: [`trabajador.py`](trabajador.py)
+- Código: [potenciacion.py](potenciacion.py) + [prueba_potenciacion.py](prueba_potenciacion.py)
+- Diagrama de clase: [diagrama_ej14_Potenciacion.png](diagrama_ej14_Potenciacion.png)
 
-[![Diagrama de clase - Trabajador](diagrama_ej12_Trabajador.png)](diagrama_ej12_Trabajador.png)
+## Ejercicio 17 – Área de un Círculo
 
-## [Ejercicio 14 – Potenciación](prueba_potenciacion.py)
-
-Código: [`potenciacion.py`](potenciacion.py) + [`prueba_potenciacion.py`](prueba_potenciacion.py)
-
-[![Diagrama de clase - Potenciación](diagrama_ej14_Potenciacion.png)](diagrama_ej14_Potenciacion.png)
-
-## [Ejercicio 17 – Área de un Círculo](prueba_circulo.py)
-
-Código: [`circulo.py`](circulo.py) + [`prueba_circulo.py`](prueba_circulo.py)
-
-[![Diagrama de clase - Círculo](diagrama_ej17_Circulo.png)](diagrama_ej17_Circulo.png)
+- Código: [circulo.py](circulo.py) + [prueba_circulo.py](prueba_circulo.py)
+- Diagrama de clase: [diagrama_ej17_Circulo.png](diagrama_ej17_Circulo.png)
 
 ## Cómo ejecutar
 
 Cada ejercicio se ejecuta directamente con Python 3. Por ejemplo, para el ejercicio 4:
 
-\`\`\`bash
+```bash
 python3 edades.py
-\`\`\`
+```
 
 Para los ejercicios 14 y 17, que están divididos en dos archivos, ejecuta el archivo
 de prueba (que importa al otro):
 
-\`\`\`bash
+```bash
 python3 prueba_potenciacion.py
 python3 prueba_circulo.py
-\`\`\`
+```
 
 ## Documento de entrega
 
 El archivo `Actividad1_POO_Python.pdf`, en la raíz del repositorio, contiene la
 portada, el código fuente y el diagrama de clases de cada ejercicio, tal como lo
 exige el enunciado de la actividad.
+
