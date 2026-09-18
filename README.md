@@ -18,31 +18,31 @@ solicitados en la Actividad 1, implementados usando clases y métodos.
 
 ## [Ejercicio 4 – Edades](src/edades.py)
 
-Código: [`src/edades.py`](src/edades.py)
+Código: [`src/edades.py`](edades.py)
 
 [![Diagrama de clase - Edades](diagramas/diagrama_ej4_Edades.png)](diagramas/diagrama_ej4_Edades.png)
 
 ## [Ejercicio 5 – Prueba de Escritorio](src/prueba_escritorio.py)
 
-Código: [`src/prueba_escritorio.py`](src/prueba_escritorio.py)
+Código: [`src/prueba_escritorio.py`](prueba_escritorio.py)
 
 [![Diagrama de clase - Prueba de Escritorio](diagramas/diagrama_ej5_PruebaEscritorio.png)](diagramas/diagrama_ej5_PruebaEscritorio.png)
 
 ## [Ejercicio 12 – Trabajador](src/trabajador.py)
 
-Código: [`src/trabajador.py`](src/trabajador.py)
+Código: [`src/trabajador.py`](trabajador.py)
 
 [![Diagrama de clase - Trabajador](diagramas/diagrama_ej12_Trabajador.png)](diagramas/diagrama_ej12_Trabajador.png)
 
 ## [Ejercicio 14 – Potenciación](src/prueba_potenciacion.py)
 
-Código: [`src/potenciacion.py`](src/potenciacion.py) + [`src/prueba_potenciacion.py`](src/prueba_potenciacion.py)
+Código: [`src/potenciacion.py`](potenciacion.py) + [`src/prueba_potenciacion.py`](prueba_potenciacion.py)
 
 [![Diagrama de clase - Potenciación](diagramas/diagrama_ej14_Potenciacion.png)](diagramas/diagrama_ej14_Potenciacion.png)
 
 ## [Ejercicio 17 – Área de un Círculo](src/prueba_circulo.py)
 
-Código: [`src/circulo.py`](src/circulo.py) + [`src/prueba_circulo.py`](src/prueba_circulo.py)
+Código: [`src/circulo.py`](circulo.py) + [`src/prueba_circulo.py`](prueba_circulo.py)
 
 [![Diagrama de clase - Círculo](diagramas/diagrama_ej17_Circulo.png)](diagramas/diagrama_ej17_Circulo.png)
 
